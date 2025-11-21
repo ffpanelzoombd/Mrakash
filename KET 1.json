@@ -3,14 +3,14 @@
     "id": "f9ac626deaef13dc",
     "username": "paid",
     "password": "akash",
-    "expiresAt": "2025-11-22",
+    "expiresAt": "2025-11-21",
     "allowOffline": true
   },
   {
     "id": "f9ac626deaef13dc",
     "username": "paid",
     "password": "mal",
-    "expiresAt": "2025-11-20",
+    "expiresAt": "2025-12-20",
     "allowOffline": false
   }
 ]
