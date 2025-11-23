@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "latestVersionCode": 2,
   "latestVersionName": "1.1",
-  "title": "AKASH BAHI MODS",
-  "message": " এপিকে প্রবলেম নিউ এপিকে ডাউনলোড করুন আপডেটের উপর চাপ দিন  ",
-  "UpdateButtonText": " UPDATE NOW ",
+  "title": "AKASH BAHI",
+  "message": " আপডেট এর উপর চাপ দেন ",
+  "UpdateButtonText": "UPDATE NOW ",
   "UpdateButtonUrl": "https://t.me/ffpanelzoombd"
 }
