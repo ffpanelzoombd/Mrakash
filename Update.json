@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "title": "!! APK problem   😩 !!  ",
+  "latestVersionName": "3.3",
+  "title": "! APK problem   😩 !",
   "message": " আপডেট এর উপর চাপ দিয়ে আপডেট করে নেন  ",
-  "UpdateButtonText": " UPDATE NOW fix ",
+  "UpdateButtonText": " UPDATE NOW ",
   "UpdateButtonUrl": "https://t.me/ffpanelzoombd"
 }
