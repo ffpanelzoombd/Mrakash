@@ -1,5 +1,5 @@
 {
-  "showUpdate": true,
+  "showUpdate": false,
   "title": "🔔 New Update Available 🎯",
   "message": "আপডেটের ওপর চাপ দিয়ে আপডেট করুন.",
   "buttonText": "Update Now",
